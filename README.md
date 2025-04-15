@@ -78,9 +78,7 @@ Utilisation
 Le programme affichera les informations suivantes en temps réel :
 
     CPU : Utilisation du CPU par cœur.
-
     Mémoire : Utilisation de la RAM et de la mémoire swap.
-
     Processus : Liste des processus actifs avec leur consommation de ressources (CPU/RAM).
 
 Commandes disponibles :
@@ -114,7 +112,8 @@ Les contributions sont les bienvenues ! Pour contribuer à ce projet, veuillez s
 - Créez une branche pour votre fonctionnalité : git checkout -b feature/ma-nouvelle-fonctionnalite
 - Effectuez vos modifications
 - Committez vos changements : 
-``` git commit -am 'Ajout de la fonctionnalité X'
+```
+git commit -am 'Ajout de la fonctionnalité X'
 ```
 - Poussez vos changements : git push origin feature/ma-nouvelle-fonctionnalite
 - Ouvrez une pull request pour intégrer vos changements à la branche principale.
